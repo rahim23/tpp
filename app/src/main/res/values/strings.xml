@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">tpp</string>
+    <string name="textview">TextView</string>
+    <string name="button">Button</string>
+    <string name="nom_et_prenom">Nom et prenom</string>
+    <string name="name">Name</string>
+</resources>
